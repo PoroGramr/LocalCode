@@ -11,7 +11,7 @@ setup(
     ],
     entry_points={
         "console_scripts": [
-            "oc=cli:main", # 'oc' 라는 명령어로 실행되도록 설정
+            "oa=cli:main", # 다시 'oa'로 설정
         ],
     },
 )

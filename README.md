@@ -27,7 +27,7 @@ This project is a lightweight, high-performance coding agent that completely sep
 ### Basic Execution
 Open your terminal in any directory and run:
 ```bash
-oa --host "http://[MAC-STUDIO-IP]:11434" --model "llama3.1:8b"
+oa --host "http://[MAC-STUDIO-IP]:11434" --model "qwen3-coder:30b"
 ```
 
 ### Pro Tip: Setup an Alias
